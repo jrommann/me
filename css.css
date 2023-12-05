@@ -1,0 +1,50 @@
+body
+{
+  background-color: black;
+  color: white;
+  font-size: 20pt;
+}
+
+h1
+{
+  
+}
+
+a
+{
+	color: DimGray;
+}
+
+.title
+{
+	font-size: 30pt;
+}
+
+.subTitle
+{
+	font-size: 15pt;
+	margin-top: -30px;
+}
+
+table 
+{
+	border-collapse: collapse;
+	border-style: hidden;
+}
+
+table td, table th
+{
+	border: 1px solid black;
+}
+
+table tr
+{
+	border-collapse: collapse;
+	border-style: hidden;
+}
+
+td
+{    
+	vertical-align:top;
+	padding: 15px;
+}
