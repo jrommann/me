@@ -31,9 +31,26 @@ dd
 	color: gray;
 }
 
+.jobRole
+{
+	font-size: 17pt;
+	color: gray;
+}
+
+.jobRoleSub
+{
+	font-size: 15pt;
+	color: gray;
+}
+
 .jobTitle
 {
 	font-weight: bold;	
+}
+
+.jobSubTitle
+{
+	font-size: 15pt;
 }
 
 .jobLink
