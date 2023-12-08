@@ -18,6 +18,7 @@ dd
 .title
 {
 	font-size: 30pt;
+	
 }
 
 .subTitle
@@ -46,6 +47,7 @@ dd
 .jobTitle
 {
 	font-weight: bold;	
+	text-decoration: underline;
 }
 
 .jobSubTitle
