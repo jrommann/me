@@ -8,14 +8,17 @@ My main hobbies are programming, computer games, table top games, DnD, baking, c
 I am a hard worker, like to get things done in an efficient and timely manner, and I love solving problems.
 
 ### Professional and Personal Links
-GitHub
+GitHub\
 [https://github.com/jrommann](https://github.com/jrommann)
 
-Rabid Design Studio
+Rabid Design Studio\
 [https://www.rabiddesignstudios.com/](https://www.rabiddesignstudios.com/)
 
-LinkedIn
+LinkedIn\
 [https://www.linkedin.com/in/jacob-rommann-94820910](https://www.linkedin.com/in/jacob-rommann-94820910)
 
-Upworks
+Upworks\
 [https://www.upwork.com/freelancers/~01a294018a91ab5494](https://www.upwork.com/freelancers/~01a294018a91ab5494)
+
+Tabletop (DnD)\
+[https://dnd.rommann.com/doku.php](https://dnd.rommann.com/doku.php)
